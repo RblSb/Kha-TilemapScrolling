@@ -1,0 +1,1 @@
+Example of Kha tilemap with scrolling (without kha.Scaler). Supports dynamic change of viewport.
